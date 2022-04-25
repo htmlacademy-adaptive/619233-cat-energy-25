@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Александр Ламберт](https://up.htmlacademy.ru/adaptive/25/user/619233).
-* Наставник: [Дмитрий Иовлев](https://up.htmlacademy.ru/adaptive/25/user/200490).
+* Наставник: [Эрик Спичак](https://htmlacademy.ru/profile/id801243).
 
 ---
 
